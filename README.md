@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Zeshan Amin</h1>
 <h3 align="center">🚀 Full Stack Developer | 💻 Passionate about crafting end-to-end solutions | 🌐 Turning ideas into seamless, scalable code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeshanamin83&label=Profile%20views&color=0e75b6&style=flat" alt="zeshanamin83" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeshanamin83" alt="zeshanamin83" /></a> </p>
-
 <h3 align="left">How to reach me</h3>
 <a href="mailto:zeshanamin83@gmail.com">zeshanmin83@gmail.com</a>
 
@@ -59,6 +55,8 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>   
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeshanamin83&label=Profile%20views&color=0e75b6&style=flat" alt="zeshanamin83" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeshanamin83" alt="zeshanamin83" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeshanamin83&show_icons=true&locale=en&layout=compact" alt="zeshanamin83" /></p>
 
