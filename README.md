@@ -44,9 +44,6 @@
 
 <h3 align="left">Open Source:</h3>
 
-<h3 align="left">Backend Tools and Languages:</h3>
-
-
 <h3 align="left">Module Bundler for JavaScript </h3>
 <a href="https://gulpjs.com" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-gulp-1.png" alt="gulp" width="95" height="85" /></a>
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-babel-final.png" alt="babel" width="95" height="85" /></a>
