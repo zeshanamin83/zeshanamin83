@@ -36,14 +36,14 @@
 <a href="https://tailwindcss.com/" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-tailwind.png" alt="Zeshan Amin Tailwind" width="95" height="80" /></a>
 
 <h3 align="left">Frontend Frameworks:</h3>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-react.png" alt="zeshanamin-react" width="40" height="40" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-next.png" alt="zeshanamin-nextjs" width="40" height="40" /></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-vue.png" alt="zeshanamin-vuejs" width="40" height="40" /></a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-redux.png" alt="zeshanamin-redux" width="40" height="40" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-react.png" alt="zeshanamin-react" width="95" height="85" /></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-next.png" alt="zeshanamin-nextjs" width="95" height="85" /></a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-vue.png" alt="zeshanamin-vuejs" width="95" height="85" /></a>
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-redux.png" alt="zeshanamin-redux" width="95" height="85" /></a>
 
 <h3 align="left">Backend Tools and Languages:</h3>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-gulp.png" alt="php" width="40" height="40" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-webpack.png" alt="mysql" width="40" height="40" /></a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-gulp.png" alt="php" width="95" height="85" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-webpack.png" alt="mysql" width="95" height="85" /></a>
 
 <h3 align="left">Open Source:</h3>
 
@@ -51,9 +51,9 @@
 
 
 <h3 align="left">Module Bundler for JavaScript </h3>
-<a href="https://gulpjs.com" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-gulp-1.png" alt="gulp" width="40" height="40" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-babel.png" alt="babel" width="40" height="40" /></a>
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-webpack-1.png" alt="webpack" width="40" height="40" /></a>
+<a href="https://gulpjs.com" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-gulp-1.png" alt="gulp" width="95" height="85" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-babel.png" alt="babel" width="95" height="85" /></a>
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-webpack-1.png" alt="webpack" width="95" height="85" /></a>
 
 <h3 align="left">Project Management Tools:</h3>
 
