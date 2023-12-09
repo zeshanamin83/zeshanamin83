@@ -1,7 +1,4 @@
-![logo](https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshan_amin.jpg)
-<h1 align="center">Hi 👋, I'm Zeshan Amin</h1>
-<h3 align="center">🚀 Full Stack Developer | 💻 Passionate about crafting end-to-end solutions | 🌐 Turning ideas into seamless, scalable code.</h3>
-
+![logo](https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-git-banner.png)
 <h3 align="left">How to reach me</h3>
 <a href="mailto:zeshanamin83@gmail.com">zeshanmin83@gmail.com</a>
 
