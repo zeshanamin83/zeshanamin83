@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeshanamin83" alt="zeshanamin83" /></a> </p>
 
 <h3 align="left">How to reach me</h3>
-**zeshanmin83@gmail.com**
+<a href="mailto:zeshanamin83@gmail.com">zeshanmin83@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
