@@ -27,7 +27,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/css" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-css3.png" alt="Zeshan Amin CSS3" width="95" height="80" /></a>
 <a href="https://sass-lang.com" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-sass.png" alt="Zeshan Amin SASS" width="95" height="80" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-js.png" alt="Zeshan Amin JavaScript" width="95" height="80" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-ts.png" alt="typescript" width="40" height="40" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-ts.png" alt="typescript" width="95" height="85" /></a>
 
 <h3 align="left">CSS Frameworks:</h3>
 <a href="https://getbootstrap.com/" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-bootstrap.png" alt="Zeshan Amin Bootstrap" width="95" height="80" /></a>
