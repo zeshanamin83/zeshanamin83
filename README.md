@@ -19,17 +19,23 @@
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
+<h3 align="left">Design Tools:</h3>
 <a href="https://fb.com/zeshan.amin.5" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-figma.png" alt="Zeshan Amin Facebook Profile" width="95" height="80" /></a>
 <a href="https://fb.com/zeshan.amin.5" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-adobe-xd.png" alt="Zeshan Amin Facebook Profile" width="95" height="80" /></a>
 <a href="https://fb.com/zeshan.amin.5" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-adobe-illustrator.png" alt="Zeshan Amin Facebook Profile" width="95" height="80" /></a>
 <a href="https://fb.com/zeshan.amin.5" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-adobe-photoshop.png" alt="Zeshan Amin Facebook Profile" width="95" height="80" /></a>
 
-<h3 align="left">Design Tools:</h3>
-
-
 <h3 align="left">Languages:</h3>
+<a href="https://fb.com/zeshan.amin.5" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-html5.png" alt="Zeshan Amin Facebook Profile" width="95" height="80" /></a>
+<a href="https://fb.com/zeshan.amin.5" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-css3.png" alt="Zeshan Amin Facebook Profile" width="95" height="80" /></a>
+<a href="https://fb.com/zeshan.amin.5" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-sass.png" alt="Zeshan Amin Facebook Profile" width="95" height="80" /></a>
+<a href="https://fb.com/zeshan.amin.5" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-js.png" alt="Zeshan Amin Facebook Profile" width="95" height="80" /></a>
 
 <h3 align="left">Frameworks:</h3>
+<a href="https://fb.com/zeshan.amin.5" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-bootstrap.png" alt="Zeshan Amin Facebook Profile" width="95" height="80" /></a>
+<a href="https://fb.com/zeshan.amin.5" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-bulma.png" alt="Zeshan Amin Facebook Profile" width="95" height="80" /></a>
+<a href="https://fb.com/zeshan.amin.5" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-materialize.png" alt="Zeshan Amin Facebook Profile" width="95" height="80" /></a>
+<a href="https://fb.com/zeshan.amin.5" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-tailwind.png" alt="Zeshan Amin Facebook Profile" width="95" height="80" /></a>
 
 <h3 align="left">Open Source:</h3>
 
