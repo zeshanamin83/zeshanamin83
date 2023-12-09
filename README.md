@@ -28,7 +28,13 @@
 <a href="https://sass-lang.com" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-sass.png" alt="Zeshan Amin SASS" width="95" height="80" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-js.png" alt="Zeshan Amin JavaScript" width="95" height="80" /></a>
 
-<h3 align="left">Frameworks:</h3>
+<h3 align="left">CSS Frameworks:</h3>
+<a href="https://getbootstrap.com/" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-bootstrap.png" alt="Zeshan Amin Bootstrap" width="95" height="80" /></a>
+<a href="https://bulma.io/" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-bulma.png" alt="Zeshan Amin Bulma" width="95" height="80" /></a>
+<a href="https://materializecss.com/" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-materialize.png" alt="Zeshan Amin Materialize" width="95" height="80" /></a>
+<a href="https://tailwindcss.com/" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-tailwind.png" alt="Zeshan Amin Tailwind" width="95" height="80" /></a>
+
+<h3 align="left">Frontend Frameworks:</h3>
 <a href="https://getbootstrap.com/" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-bootstrap.png" alt="Zeshan Amin Bootstrap" width="95" height="80" /></a>
 <a href="https://bulma.io/" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-bulma.png" alt="Zeshan Amin Bulma" width="95" height="80" /></a>
 <a href="https://materializecss.com/" target"_blank"><img src="https://github.com/zeshanamin83/zeshanamin83/blob/main/zeshanamin-materialize.png" alt="Zeshan Amin Materialize" width="95" height="80" /></a>
@@ -36,9 +42,13 @@
 
 <h3 align="left">Open Source:</h3>
 
-<h3 align="left">UI Design:</h3>
+<h3 align="left">Project Management Tools:</h3>
 
-<h3 align="left">UI Design:</h3>
+<h3 align="left">Backend Tools and Languages:</h3>
+
+<h3 align="left">Backend Tools and Languages:</h3>
+
+<h3 align="left">Module Bundler for JavaScript </h3>
 
 <p align="left"> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
